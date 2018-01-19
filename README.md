@@ -1,2 +1,2 @@
 # closure-countdown
-A project demonstrating closures and promises with a countdown clock
+A project demonstrating closures with a countdown clock
